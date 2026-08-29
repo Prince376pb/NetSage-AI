@@ -1,0 +1,501 @@
+packet_loss,interface_down,gateway_match,ip_match,subnet_match,router_ip_match,fault
+90,0,1,1,1,0,Wrong Router Interface IP
+95,0,1,1,1,0,Wrong Router Interface IP
+98,0,1,1,1,0,Wrong Router Interface IP
+100,0,1,1,0,1,Wrong Subnet Mask
+95,0,0,1,1,1,Wrong Gateway
+100,0,1,1,0,1,Wrong Subnet Mask
+100,0,0,1,1,1,Wrong Gateway
+100,0,0,1,1,1,Wrong Gateway
+98,0,1,1,1,0,Wrong Router Interface IP
+99,0,1,1,0,1,Wrong Subnet Mask
+98,1,1,1,1,1,Interface Down
+100,0,0,1,1,1,Wrong Gateway
+90,0,0,1,1,1,Wrong Gateway
+98,0,0,1,1,1,Wrong Gateway
+100,1,1,1,1,1,Interface Down
+100,0,0,1,1,1,Wrong Gateway
+90,0,1,0,1,1,Wrong IP Address
+100,1,1,1,1,1,Interface Down
+98,0,0,1,1,1,Wrong Gateway
+98,1,1,1,1,1,Interface Down
+90,0,1,0,1,1,Wrong IP Address
+100,0,1,1,1,0,Wrong Router Interface IP
+95,0,0,1,1,1,Wrong Gateway
+90,1,1,1,1,1,Interface Down
+98,0,1,1,0,1,Wrong Subnet Mask
+99,0,0,1,1,1,Wrong Gateway
+98,1,1,1,1,1,Interface Down
+100,0,1,1,0,1,Wrong Subnet Mask
+95,0,1,0,1,1,Wrong IP Address
+95,0,0,1,1,1,Wrong Gateway
+99,1,1,1,1,1,Interface Down
+98,0,1,1,1,0,Wrong Router Interface IP
+90,0,1,0,1,1,Wrong IP Address
+95,0,1,1,1,0,Wrong Router Interface IP
+90,0,1,1,1,0,Wrong Router Interface IP
+100,0,1,1,1,0,Wrong Router Interface IP
+90,1,1,1,1,1,Interface Down
+90,0,0,1,1,1,Wrong Gateway
+98,0,1,1,1,0,Wrong Router Interface IP
+95,0,0,1,1,1,Wrong Gateway
+95,0,0,1,1,1,Wrong Gateway
+99,0,1,1,1,0,Wrong Router Interface IP
+100,0,1,1,1,0,Wrong Router Interface IP
+95,1,1,1,1,1,Interface Down
+98,0,1,1,1,0,Wrong Router Interface IP
+100,0,1,1,1,0,Wrong Router Interface IP
+98,1,1,1,1,1,Interface Down
+95,0,1,1,0,1,Wrong Subnet Mask
+100,1,1,1,1,1,Interface Down
+95,1,1,1,1,1,Interface Down
+90,0,0,1,1,1,Wrong Gateway
+95,0,1,0,1,1,Wrong IP Address
+99,1,1,1,1,1,Interface Down
+100,0,1,1,0,1,Wrong Subnet Mask
+95,0,1,0,1,1,Wrong IP Address
+100,0,0,1,1,1,Wrong Gateway
+98,0,1,1,0,1,Wrong Subnet Mask
+90,0,1,0,1,1,Wrong IP Address
+95,0,1,0,1,1,Wrong IP Address
+99,0,1,0,1,1,Wrong IP Address
+95,0,1,0,1,1,Wrong IP Address
+100,0,1,1,1,0,Wrong Router Interface IP
+98,1,1,1,1,1,Interface Down
+98,0,1,1,1,0,Wrong Router Interface IP
+99,0,1,0,1,1,Wrong IP Address
+99,1,1,1,1,1,Interface Down
+98,0,1,0,1,1,Wrong IP Address
+98,1,1,1,1,1,Interface Down
+100,1,1,1,1,1,Interface Down
+95,0,0,1,1,1,Wrong Gateway
+99,0,0,1,1,1,Wrong Gateway
+95,0,1,1,0,1,Wrong Subnet Mask
+99,0,1,1,0,1,Wrong Subnet Mask
+98,0,1,0,1,1,Wrong IP Address
+99,1,1,1,1,1,Interface Down
+98,1,1,1,1,1,Interface Down
+90,1,1,1,1,1,Interface Down
+98,0,1,1,1,0,Wrong Router Interface IP
+99,0,1,1,0,1,Wrong Subnet Mask
+90,1,1,1,1,1,Interface Down
+90,0,0,1,1,1,Wrong Gateway
+98,0,1,1,1,0,Wrong Router Interface IP
+98,0,1,1,1,0,Wrong Router Interface IP
+95,1,1,1,1,1,Interface Down
+98,0,0,1,1,1,Wrong Gateway
+90,0,0,1,1,1,Wrong Gateway
+100,0,1,0,1,1,Wrong IP Address
+90,1,1,1,1,1,Interface Down
+95,0,1,1,0,1,Wrong Subnet Mask
+95,0,1,1,0,1,Wrong Subnet Mask
+98,0,0,1,1,1,Wrong Gateway
+90,0,1,0,1,1,Wrong IP Address
+95,0,1,0,1,1,Wrong IP Address
+98,0,1,1,0,1,Wrong Subnet Mask
+100,0,1,1,0,1,Wrong Subnet Mask
+99,0,0,1,1,1,Wrong Gateway
+95,1,1,1,1,1,Interface Down
+90,1,1,1,1,1,Interface Down
+100,0,1,1,0,1,Wrong Subnet Mask
+100,0,0,1,1,1,Wrong Gateway
+90,0,1,1,1,0,Wrong Router Interface IP
+100,0,1,1,1,0,Wrong Router Interface IP
+95,0,1,0,1,1,Wrong IP Address
+99,0,1,1,1,0,Wrong Router Interface IP
+98,0,1,1,0,1,Wrong Subnet Mask
+99,0,1,0,1,1,Wrong IP Address
+90,0,1,0,1,1,Wrong IP Address
+100,0,1,1,0,1,Wrong Subnet Mask
+95,0,1,0,1,1,Wrong IP Address
+100,0,1,1,1,0,Wrong Router Interface IP
+95,0,0,1,1,1,Wrong Gateway
+90,0,1,1,0,1,Wrong Subnet Mask
+95,0,1,1,1,0,Wrong Router Interface IP
+95,1,1,1,1,1,Interface Down
+95,0,1,0,1,1,Wrong IP Address
+99,0,1,0,1,1,Wrong IP Address
+99,0,1,1,1,0,Wrong Router Interface IP
+95,1,1,1,1,1,Interface Down
+98,1,1,1,1,1,Interface Down
+95,0,1,1,1,0,Wrong Router Interface IP
+95,1,1,1,1,1,Interface Down
+90,0,0,1,1,1,Wrong Gateway
+100,1,1,1,1,1,Interface Down
+90,0,1,1,0,1,Wrong Subnet Mask
+90,0,1,0,1,1,Wrong IP Address
+98,0,1,1,0,1,Wrong Subnet Mask
+100,0,1,1,0,1,Wrong Subnet Mask
+99,0,1,1,0,1,Wrong Subnet Mask
+95,0,1,1,0,1,Wrong Subnet Mask
+100,0,0,1,1,1,Wrong Gateway
+100,0,1,0,1,1,Wrong IP Address
+100,0,1,1,0,1,Wrong Subnet Mask
+90,1,1,1,1,1,Interface Down
+98,0,0,1,1,1,Wrong Gateway
+100,0,1,1,0,1,Wrong Subnet Mask
+100,1,1,1,1,1,Interface Down
+99,1,1,1,1,1,Interface Down
+90,0,0,1,1,1,Wrong Gateway
+95,0,0,1,1,1,Wrong Gateway
+90,0,0,1,1,1,Wrong Gateway
+90,0,1,1,0,1,Wrong Subnet Mask
+99,0,1,1,1,0,Wrong Router Interface IP
+99,0,1,1,1,0,Wrong Router Interface IP
+100,0,1,1,0,1,Wrong Subnet Mask
+98,0,1,1,0,1,Wrong Subnet Mask
+90,0,0,1,1,1,Wrong Gateway
+100,0,1,1,0,1,Wrong Subnet Mask
+95,0,1,1,1,0,Wrong Router Interface IP
+90,0,1,1,1,0,Wrong Router Interface IP
+95,0,1,1,0,1,Wrong Subnet Mask
+90,0,1,1,0,1,Wrong Subnet Mask
+100,1,1,1,1,1,Interface Down
+90,0,1,0,1,1,Wrong IP Address
+90,0,1,0,1,1,Wrong IP Address
+90,1,1,1,1,1,Interface Down
+95,0,0,1,1,1,Wrong Gateway
+98,0,1,1,0,1,Wrong Subnet Mask
+95,0,0,1,1,1,Wrong Gateway
+99,0,1,1,1,0,Wrong Router Interface IP
+98,0,1,1,0,1,Wrong Subnet Mask
+100,1,1,1,1,1,Interface Down
+98,1,1,1,1,1,Interface Down
+90,0,1,0,1,1,Wrong IP Address
+98,0,1,0,1,1,Wrong IP Address
+100,0,0,1,1,1,Wrong Gateway
+98,0,1,1,0,1,Wrong Subnet Mask
+100,1,1,1,1,1,Interface Down
+99,0,1,0,1,1,Wrong IP Address
+98,0,0,1,1,1,Wrong Gateway
+95,0,0,1,1,1,Wrong Gateway
+98,0,1,0,1,1,Wrong IP Address
+100,0,0,1,1,1,Wrong Gateway
+95,0,1,0,1,1,Wrong IP Address
+99,0,0,1,1,1,Wrong Gateway
+100,0,1,1,1,0,Wrong Router Interface IP
+99,0,1,0,1,1,Wrong IP Address
+90,0,1,1,1,0,Wrong Router Interface IP
+100,1,1,1,1,1,Interface Down
+100,1,1,1,1,1,Interface Down
+98,1,1,1,1,1,Interface Down
+90,1,1,1,1,1,Interface Down
+100,0,1,1,0,1,Wrong Subnet Mask
+100,0,0,1,1,1,Wrong Gateway
+90,0,1,1,0,1,Wrong Subnet Mask
+95,0,0,1,1,1,Wrong Gateway
+95,0,1,1,1,0,Wrong Router Interface IP
+90,0,1,1,1,0,Wrong Router Interface IP
+90,0,1,1,0,1,Wrong Subnet Mask
+95,0,1,1,1,0,Wrong Router Interface IP
+90,0,1,1,0,1,Wrong Subnet Mask
+98,1,1,1,1,1,Interface Down
+99,0,0,1,1,1,Wrong Gateway
+99,0,1,1,1,0,Wrong Router Interface IP
+99,0,1,0,1,1,Wrong IP Address
+99,1,1,1,1,1,Interface Down
+95,0,0,1,1,1,Wrong Gateway
+95,0,1,1,0,1,Wrong Subnet Mask
+99,0,1,0,1,1,Wrong IP Address
+100,0,1,1,1,0,Wrong Router Interface IP
+90,0,1,0,1,1,Wrong IP Address
+98,0,0,1,1,1,Wrong Gateway
+90,1,1,1,1,1,Interface Down
+90,0,1,1,1,0,Wrong Router Interface IP
+98,0,1,1,1,0,Wrong Router Interface IP
+95,1,1,1,1,1,Interface Down
+95,0,1,0,1,1,Wrong IP Address
+98,0,1,1,0,1,Wrong Subnet Mask
+99,0,1,0,1,1,Wrong IP Address
+98,0,0,1,1,1,Wrong Gateway
+99,0,1,0,1,1,Wrong IP Address
+99,0,0,1,1,1,Wrong Gateway
+100,0,0,1,1,1,Wrong Gateway
+99,0,1,1,1,0,Wrong Router Interface IP
+99,0,1,1,0,1,Wrong Subnet Mask
+98,0,1,1,1,0,Wrong Router Interface IP
+99,0,1,0,1,1,Wrong IP Address
+100,0,0,1,1,1,Wrong Gateway
+98,0,0,1,1,1,Wrong Gateway
+99,0,1,1,1,0,Wrong Router Interface IP
+100,0,1,1,0,1,Wrong Subnet Mask
+90,1,1,1,1,1,Interface Down
+99,0,1,1,1,0,Wrong Router Interface IP
+100,0,1,1,1,0,Wrong Router Interface IP
+95,0,1,1,1,0,Wrong Router Interface IP
+98,0,1,1,0,1,Wrong Subnet Mask
+95,0,1,1,1,0,Wrong Router Interface IP
+99,0,1,1,1,0,Wrong Router Interface IP
+90,0,1,1,0,1,Wrong Subnet Mask
+100,0,1,0,1,1,Wrong IP Address
+90,0,1,0,1,1,Wrong IP Address
+99,1,1,1,1,1,Interface Down
+95,1,1,1,1,1,Interface Down
+90,0,1,1,1,0,Wrong Router Interface IP
+99,0,1,0,1,1,Wrong IP Address
+99,0,1,0,1,1,Wrong IP Address
+99,0,1,0,1,1,Wrong IP Address
+90,1,1,1,1,1,Interface Down
+100,0,1,0,1,1,Wrong IP Address
+98,0,1,1,1,0,Wrong Router Interface IP
+100,0,1,1,0,1,Wrong Subnet Mask
+100,1,1,1,1,1,Interface Down
+99,0,1,1,1,0,Wrong Router Interface IP
+95,1,1,1,1,1,Interface Down
+100,0,1,1,1,0,Wrong Router Interface IP
+99,0,0,1,1,1,Wrong Gateway
+95,0,1,1,1,0,Wrong Router Interface IP
+90,0,1,1,0,1,Wrong Subnet Mask
+90,0,1,0,1,1,Wrong IP Address
+98,0,1,1,1,0,Wrong Router Interface IP
+99,0,1,1,1,0,Wrong Router Interface IP
+95,0,1,1,1,0,Wrong Router Interface IP
+90,1,1,1,1,1,Interface Down
+99,1,1,1,1,1,Interface Down
+100,0,1,1,1,0,Wrong Router Interface IP
+99,0,1,1,1,0,Wrong Router Interface IP
+99,0,1,1,1,0,Wrong Router Interface IP
+90,0,0,1,1,1,Wrong Gateway
+99,0,0,1,1,1,Wrong Gateway
+98,0,1,1,0,1,Wrong Subnet Mask
+100,0,1,0,1,1,Wrong IP Address
+100,0,1,0,1,1,Wrong IP Address
+90,0,0,1,1,1,Wrong Gateway
+99,0,1,1,1,0,Wrong Router Interface IP
+90,0,1,0,1,1,Wrong IP Address
+98,0,1,1,1,0,Wrong Router Interface IP
+95,0,1,0,1,1,Wrong IP Address
+99,0,0,1,1,1,Wrong Gateway
+90,0,1,0,1,1,Wrong IP Address
+100,0,1,1,1,0,Wrong Router Interface IP
+100,0,1,0,1,1,Wrong IP Address
+90,0,1,1,0,1,Wrong Subnet Mask
+90,1,1,1,1,1,Interface Down
+95,0,0,1,1,1,Wrong Gateway
+99,0,1,0,1,1,Wrong IP Address
+95,0,1,1,0,1,Wrong Subnet Mask
+95,0,0,1,1,1,Wrong Gateway
+95,0,1,1,0,1,Wrong Subnet Mask
+95,0,1,0,1,1,Wrong IP Address
+100,0,0,1,1,1,Wrong Gateway
+100,1,1,1,1,1,Interface Down
+90,1,1,1,1,1,Interface Down
+100,0,0,1,1,1,Wrong Gateway
+98,1,1,1,1,1,Interface Down
+99,0,1,1,1,0,Wrong Router Interface IP
+90,1,1,1,1,1,Interface Down
+95,0,1,1,1,0,Wrong Router Interface IP
+90,0,1,0,1,1,Wrong IP Address
+98,0,0,1,1,1,Wrong Gateway
+90,0,1,0,1,1,Wrong IP Address
+95,0,1,1,0,1,Wrong Subnet Mask
+90,1,1,1,1,1,Interface Down
+98,0,0,1,1,1,Wrong Gateway
+90,1,1,1,1,1,Interface Down
+100,0,1,1,0,1,Wrong Subnet Mask
+90,1,1,1,1,1,Interface Down
+90,0,0,1,1,1,Wrong Gateway
+98,0,0,1,1,1,Wrong Gateway
+90,0,1,1,0,1,Wrong Subnet Mask
+100,0,0,1,1,1,Wrong Gateway
+98,0,1,1,1,0,Wrong Router Interface IP
+98,1,1,1,1,1,Interface Down
+98,0,1,0,1,1,Wrong IP Address
+99,1,1,1,1,1,Interface Down
+95,0,1,1,1,0,Wrong Router Interface IP
+95,0,1,1,0,1,Wrong Subnet Mask
+95,0,1,1,0,1,Wrong Subnet Mask
+100,0,0,1,1,1,Wrong Gateway
+99,0,1,1,1,0,Wrong Router Interface IP
+95,1,1,1,1,1,Interface Down
+95,1,1,1,1,1,Interface Down
+90,1,1,1,1,1,Interface Down
+90,0,0,1,1,1,Wrong Gateway
+95,0,0,1,1,1,Wrong Gateway
+98,1,1,1,1,1,Interface Down
+99,0,1,1,1,0,Wrong Router Interface IP
+100,1,1,1,1,1,Interface Down
+99,0,1,0,1,1,Wrong IP Address
+90,0,1,1,0,1,Wrong Subnet Mask
+90,0,0,1,1,1,Wrong Gateway
+100,0,1,1,0,1,Wrong Subnet Mask
+100,0,0,1,1,1,Wrong Gateway
+95,0,1,1,0,1,Wrong Subnet Mask
+90,0,1,1,0,1,Wrong Subnet Mask
+95,0,1,1,1,0,Wrong Router Interface IP
+98,0,1,0,1,1,Wrong IP Address
+98,0,0,1,1,1,Wrong Gateway
+99,0,0,1,1,1,Wrong Gateway
+100,0,1,1,1,0,Wrong Router Interface IP
+90,0,0,1,1,1,Wrong Gateway
+100,0,1,1,1,0,Wrong Router Interface IP
+95,1,1,1,1,1,Interface Down
+95,0,1,0,1,1,Wrong IP Address
+95,1,1,1,1,1,Interface Down
+99,0,1,0,1,1,Wrong IP Address
+98,0,1,1,0,1,Wrong Subnet Mask
+98,1,1,1,1,1,Interface Down
+100,0,1,1,0,1,Wrong Subnet Mask
+100,0,1,0,1,1,Wrong IP Address
+90,0,1,1,0,1,Wrong Subnet Mask
+90,0,1,0,1,1,Wrong IP Address
+90,1,1,1,1,1,Interface Down
+98,0,1,0,1,1,Wrong IP Address
+98,0,1,1,0,1,Wrong Subnet Mask
+98,1,1,1,1,1,Interface Down
+95,0,1,0,1,1,Wrong IP Address
+95,1,1,1,1,1,Interface Down
+100,0,1,0,1,1,Wrong IP Address
+98,0,1,1,0,1,Wrong Subnet Mask
+90,0,1,1,0,1,Wrong Subnet Mask
+99,0,0,1,1,1,Wrong Gateway
+90,0,1,1,0,1,Wrong Subnet Mask
+95,1,1,1,1,1,Interface Down
+99,0,1,1,1,0,Wrong Router Interface IP
+99,0,1,0,1,1,Wrong IP Address
+90,0,1,1,0,1,Wrong Subnet Mask
+95,0,1,1,0,1,Wrong Subnet Mask
+90,0,1,0,1,1,Wrong IP Address
+98,0,1,1,1,0,Wrong Router Interface IP
+98,0,1,1,0,1,Wrong Subnet Mask
+98,0,1,0,1,1,Wrong IP Address
+90,0,1,0,1,1,Wrong IP Address
+100,0,1,0,1,1,Wrong IP Address
+99,0,1,1,0,1,Wrong Subnet Mask
+100,0,0,1,1,1,Wrong Gateway
+100,0,0,1,1,1,Wrong Gateway
+95,1,1,1,1,1,Interface Down
+95,0,1,0,1,1,Wrong IP Address
+100,0,0,1,1,1,Wrong Gateway
+90,0,1,1,1,0,Wrong Router Interface IP
+99,1,1,1,1,1,Interface Down
+90,0,1,1,1,0,Wrong Router Interface IP
+100,0,1,0,1,1,Wrong IP Address
+90,0,0,1,1,1,Wrong Gateway
+100,0,1,0,1,1,Wrong IP Address
+99,0,0,1,1,1,Wrong Gateway
+98,1,1,1,1,1,Interface Down
+90,0,1,1,0,1,Wrong Subnet Mask
+99,0,1,0,1,1,Wrong IP Address
+100,0,1,0,1,1,Wrong IP Address
+100,0,0,1,1,1,Wrong Gateway
+95,0,1,0,1,1,Wrong IP Address
+98,0,1,1,1,0,Wrong Router Interface IP
+95,1,1,1,1,1,Interface Down
+95,0,0,1,1,1,Wrong Gateway
+98,0,1,1,0,1,Wrong Subnet Mask
+99,1,1,1,1,1,Interface Down
+95,0,1,1,0,1,Wrong Subnet Mask
+100,0,1,1,1,0,Wrong Router Interface IP
+99,0,0,1,1,1,Wrong Gateway
+99,1,1,1,1,1,Interface Down
+98,1,1,1,1,1,Interface Down
+100,1,1,1,1,1,Interface Down
+100,0,1,0,1,1,Wrong IP Address
+95,0,0,1,1,1,Wrong Gateway
+90,0,1,1,1,0,Wrong Router Interface IP
+98,0,0,1,1,1,Wrong Gateway
+100,0,1,1,1,0,Wrong Router Interface IP
+100,0,0,1,1,1,Wrong Gateway
+98,0,1,1,0,1,Wrong Subnet Mask
+98,1,1,1,1,1,Interface Down
+99,0,1,0,1,1,Wrong IP Address
+100,0,0,1,1,1,Wrong Gateway
+99,0,0,1,1,1,Wrong Gateway
+90,0,1,1,0,1,Wrong Subnet Mask
+90,0,1,0,1,1,Wrong IP Address
+99,0,1,0,1,1,Wrong IP Address
+99,0,1,1,1,0,Wrong Router Interface IP
+98,0,1,1,0,1,Wrong Subnet Mask
+95,0,0,1,1,1,Wrong Gateway
+100,0,1,1,0,1,Wrong Subnet Mask
+98,0,0,1,1,1,Wrong Gateway
+99,0,1,1,1,0,Wrong Router Interface IP
+98,0,0,1,1,1,Wrong Gateway
+90,0,1,0,1,1,Wrong IP Address
+98,0,1,1,1,0,Wrong Router Interface IP
+100,0,1,1,0,1,Wrong Subnet Mask
+95,1,1,1,1,1,Interface Down
+90,0,1,0,1,1,Wrong IP Address
+90,0,1,0,1,1,Wrong IP Address
+99,0,1,0,1,1,Wrong IP Address
+95,0,1,0,1,1,Wrong IP Address
+98,0,1,1,0,1,Wrong Subnet Mask
+95,0,1,1,1,0,Wrong Router Interface IP
+98,0,1,1,0,1,Wrong Subnet Mask
+99,0,1,0,1,1,Wrong IP Address
+99,0,1,1,0,1,Wrong Subnet Mask
+90,0,0,1,1,1,Wrong Gateway
+99,0,1,1,0,1,Wrong Subnet Mask
+95,0,1,0,1,1,Wrong IP Address
+95,0,1,0,1,1,Wrong IP Address
+100,0,1,1,0,1,Wrong Subnet Mask
+90,0,1,1,1,0,Wrong Router Interface IP
+98,0,1,1,1,0,Wrong Router Interface IP
+98,1,1,1,1,1,Interface Down
+90,0,1,1,1,0,Wrong Router Interface IP
+99,1,1,1,1,1,Interface Down
+98,0,1,1,1,0,Wrong Router Interface IP
+100,0,0,1,1,1,Wrong Gateway
+100,0,1,0,1,1,Wrong IP Address
+100,1,1,1,1,1,Interface Down
+100,0,1,0,1,1,Wrong IP Address
+98,0,1,0,1,1,Wrong IP Address
+95,0,1,1,1,0,Wrong Router Interface IP
+95,0,1,1,1,0,Wrong Router Interface IP
+95,1,1,1,1,1,Interface Down
+99,0,0,1,1,1,Wrong Gateway
+95,0,1,0,1,1,Wrong IP Address
+99,0,1,1,0,1,Wrong Subnet Mask
+95,1,1,1,1,1,Interface Down
+95,0,1,1,0,1,Wrong Subnet Mask
+98,0,1,1,1,0,Wrong Router Interface IP
+98,0,1,1,1,0,Wrong Router Interface IP
+98,1,1,1,1,1,Interface Down
+98,0,1,1,0,1,Wrong Subnet Mask
+98,0,1,1,0,1,Wrong Subnet Mask
+95,0,1,1,1,0,Wrong Router Interface IP
+99,0,0,1,1,1,Wrong Gateway
+90,0,1,0,1,1,Wrong IP Address
+95,0,1,0,1,1,Wrong IP Address
+95,0,0,1,1,1,Wrong Gateway
+98,0,1,1,0,1,Wrong Subnet Mask
+90,0,1,1,0,1,Wrong Subnet Mask
+95,1,1,1,1,1,Interface Down
+95,0,1,0,1,1,Wrong IP Address
+100,0,1,1,0,1,Wrong Subnet Mask
+95,0,1,1,1,0,Wrong Router Interface IP
+100,0,1,0,1,1,Wrong IP Address
+90,0,1,0,1,1,Wrong IP Address
+99,1,1,1,1,1,Interface Down
+95,0,1,1,0,1,Wrong Subnet Mask
+90,0,1,1,1,0,Wrong Router Interface IP
+95,0,1,1,0,1,Wrong Subnet Mask
+99,0,1,0,1,1,Wrong IP Address
+100,0,0,1,1,1,Wrong Gateway
+95,1,1,1,1,1,Interface Down
+90,1,1,1,1,1,Interface Down
+95,1,1,1,1,1,Interface Down
+100,0,0,1,1,1,Wrong Gateway
+90,0,1,1,1,0,Wrong Router Interface IP
+90,0,0,1,1,1,Wrong Gateway
+90,0,0,1,1,1,Wrong Gateway
+98,0,1,1,0,1,Wrong Subnet Mask
+90,0,0,1,1,1,Wrong Gateway
+100,0,1,1,0,1,Wrong Subnet Mask
+98,0,1,1,1,0,Wrong Router Interface IP
+99,1,1,1,1,1,Interface Down
+95,0,0,1,1,1,Wrong Gateway
+99,0,1,1,0,1,Wrong Subnet Mask
+90,0,1,1,0,1,Wrong Subnet Mask
+98,0,1,1,0,1,Wrong Subnet Mask
+90,0,1,0,1,1,Wrong IP Address
+100,0,0,1,1,1,Wrong Gateway
+90,1,1,1,1,1,Interface Down
+99,0,1,1,0,1,Wrong Subnet Mask
+98,1,1,1,1,1,Interface Down
+90,0,1,1,0,1,Wrong Subnet Mask
+98,0,1,1,1,0,Wrong Router Interface IP
+100,0,1,1,1,0,Wrong Router Interface IP
+98,0,1,1,1,0,Wrong Router Interface IP
+95,0,1,1,1,0,Wrong Router Interface IP

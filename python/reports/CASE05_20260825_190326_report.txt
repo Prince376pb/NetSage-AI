@@ -1,0 +1,42 @@
+==========================================
+           NETSAGE AI REPORT
+==========================================
+
+Date and Time: 2026-08-25 19:03:26
+
+NETWORK EVIDENCE
+------------------------------------------
+Packet Loss: 100%
+Router Interface Down: no
+Gateway Match: yes
+IP Address Match: yes
+Subnet Mask Match: yes
+Router Interface IP Match: no
+
+RULE-BASED DIAGNOSIS
+------------------------------------------
+Fault: Wrong Router Interface IP
+Confidence: 90%
+
+REASON
+------------------------------------------
+The device configuration appears correct, but complete packet loss indicates a possible mismatch in the router interface IP configuration.
+
+RECOMMENDED ACTION
+------------------------------------------
+Check the router interface IP address and restore it to the expected gateway address.
+
+MACHINE LEARNING PREDICTION
+------------------------------------------
+Predicted Fault: Wrong Router Interface IP
+ML Confidence: 100.0%
+
+AI EXPLANATION
+------------------------------------------
+Major Contributing Factor: router_ip_match
+
+VERIFICATION
+------------------------------------------
+After applying the recommended fix, perform a connectivity test and confirm that packet loss is 0%.
+
+==========================================

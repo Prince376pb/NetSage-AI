@@ -1,0 +1,32 @@
+==========================================
+           NETSAGE AI REPORT
+==========================================
+
+Date and Time: 2026-08-24 17:22:33
+
+NETWORK EVIDENCE
+------------------------------------------
+Packet Loss: 100%
+Router Interface Down: yes
+Gateway Match: yes
+IP Address Match: yes
+Subnet Mask Match: yes
+
+DIAGNOSIS
+------------------------------------------
+Fault: Interface Down
+Confidence: 95%
+
+REASON
+------------------------------------------
+The router interface is administratively down.
+
+RECOMMENDED ACTION
+------------------------------------------
+Enable the affected router interface using the no shutdown command.
+
+VERIFICATION
+------------------------------------------
+After applying the recommended fix, perform a connectivity test and confirm that packet loss is 0%.
+
+==========================================

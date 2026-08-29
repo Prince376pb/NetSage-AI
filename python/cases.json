@@ -1,0 +1,106 @@
+[
+    {
+        "case_id": "CASE01",
+        "fault_type": "Wrong Subnet Mask",
+        "device": "Server0",
+        "symptom": "PC1 cannot reach Server0",
+        "packet_loss": "100%",
+        "evidence": [
+            "Server0 IP address is 192.168.2.10",
+            "Server0 subnet mask is 255.255.255.248",
+            "Router gateway is 192.168.2.1"
+        ],
+        "expected_evidence": {
+            "interface": "no",
+            "gateway": "yes",
+            "ip": "yes",
+            "subnet": "no"
+        },
+        "root_cause": "Incorrect subnet mask on Server0",
+        "correct_action": "Set Server0 subnet mask to 255.255.255.0",
+        "verification": "Ping successful with 0% packet loss"
+    },
+
+    {
+        "case_id": "CASE02",
+        "fault_type": "Interface Down",
+        "device": "Router1",
+        "symptom": "PC1 cannot reach Server0",
+        "packet_loss": "100%",
+        "evidence": [
+            "GigabitEthernet0/1 is administratively down"
+        ],
+        "expected_evidence": {
+            "interface": "yes",
+            "gateway": "yes",
+            "ip": "yes",
+            "subnet": "yes"
+        },
+        "root_cause": "Router interface was shut down",
+        "correct_action": "Enable GigabitEthernet0/1 using no shutdown",
+        "verification": "Ping successful with 0% packet loss"
+    },
+
+    {
+        "case_id": "CASE03",
+        "fault_type": "Wrong Gateway",
+        "device": "Server0",
+        "symptom": "PC1 cannot reach Server0",
+        "packet_loss": "100%",
+        "evidence": [
+            "Server0 gateway is 192.168.2.100",
+            "Router gateway is 192.168.2.1"
+        ],
+        "expected_evidence": {
+            "interface": "no",
+            "gateway": "no",
+            "ip": "yes",
+            "subnet": "yes"
+        },
+        "root_cause": "Incorrect default gateway on Server0",
+        "correct_action": "Set Server0 gateway to 192.168.2.1",
+        "verification": "Ping successful with 0% packet loss"
+    },
+
+    {
+        "case_id": "CASE04",
+        "fault_type": "Wrong IP Address",
+        "device": "Server0",
+        "symptom": "PC1 cannot reach the expected Server0 address",
+        "packet_loss": "100%",
+        "evidence": [
+            "Server0 is configured with 192.168.2.50",
+            "Expected Server0 address is 192.168.2.10"
+        ],
+        "expected_evidence": {
+            "interface": "no",
+            "gateway": "yes",
+            "ip": "no",
+            "subnet": "yes"
+        },
+        "root_cause": "Incorrect IP address on Server0",
+        "correct_action": "Set Server0 IP to 192.168.2.10",
+        "verification": "Ping successful with 0% packet loss"
+    },
+
+    {
+        "case_id": "CASE05",
+        "fault_type": "Wrong Router Interface IP",
+        "device": "Router1",
+        "symptom": "PC1 cannot reach Server0",
+        "packet_loss": "100%",
+        "evidence": [
+            "PC1 expects gateway 192.168.1.1",
+            "Router GigabitEthernet0/0 is configured as 192.168.1.2"
+        ],
+        "expected_evidence": {
+            "interface": "no",
+            "gateway": "yes",
+            "ip": "yes",
+            "subnet": "yes"
+        },
+        "root_cause": "Incorrect IP address on Router GigabitEthernet0/0",
+        "correct_action": "Set GigabitEthernet0/0 to 192.168.1.1",
+        "verification": "Ping successful with 0% packet loss"
+    }
+]

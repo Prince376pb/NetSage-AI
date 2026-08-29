@@ -1,0 +1,165 @@
+[
+    {
+        "case_id": "UNKNOWN",
+        "fault": "Wrong Router Interface IP",
+        "confidence": 90,
+        "human_decision": "Approved"
+    },
+    {
+        "case_id": "CASE05",
+        "fault": "Wrong Router Interface IP",
+        "confidence": 90,
+        "human_decision": "Approved"
+    },
+    {
+        "case_id": "CASE05",
+        "fault": "Wrong Router Interface IP",
+        "confidence": 90,
+        "human_decision": "Approved"
+    },
+    {
+        "case_id": "CASE05",
+        "fault": "Wrong Router Interface IP",
+        "confidence": 90,
+        "human_decision": "Approved"
+    },
+    {
+        "case_id": "CASE05",
+        "fault": "Wrong Router Interface IP",
+        "confidence": 90,
+        "human_decision": "Approved"
+    },
+    {
+        "case_id": "CASE05",
+        "fault": "Wrong Router Interface IP",
+        "confidence": 90,
+        "human_decision": "Approved",
+        "verification": "Successful"
+    },
+    {
+        "case_id": "CASE01",
+        "fault": "Wrong Subnet Mask",
+        "confidence": 95,
+        "human_decision": "Approved",
+        "verification": "Successful"
+    },
+    {
+        "case_id": "CASE02",
+        "fault": "Interface Down",
+        "confidence": 95,
+        "human_decision": "Approved",
+        "verification": "Successful"
+    },
+    {
+        "case_id": "CASE03",
+        "fault": "Wrong Gateway",
+        "confidence": 95,
+        "human_decision": "Approved",
+        "verification": "Successful"
+    },
+    {
+        "case_id": "CASE04",
+        "fault": "Wrong IP Address",
+        "confidence": 90,
+        "human_decision": "Approved",
+        "verification": "Successful"
+    },
+    {
+        "case_id": "CASE05",
+        "fault": "Interface Down",
+        "confidence": 95,
+        "human_decision": "Rejected",
+        "verification": "Not Performed"
+    },
+    {
+        "case_id": "CASE05",
+        "fault": "Wrong Router Interface IP",
+        "confidence": 90,
+        "human_decision": "Approved",
+        "verification": "Successful"
+    },
+    {
+        "case_id": "CASE04",
+        "fault": "Wrong IP Address",
+        "confidence": 90,
+        "human_decision": "Approved",
+        "verification": "Successful"
+    },
+    {
+        "case_id": "CASE04",
+        "fault": "Wrong IP Address",
+        "confidence": 90,
+        "human_decision": "Approved",
+        "verification": "Successful"
+    },
+    {
+        "case_id": "CASE04",
+        "fault": "Wrong IP Address",
+        "confidence": 90,
+        "human_decision": "Approved",
+        "verification": "Successful"
+    },
+    {
+        "case_id": "CASE05",
+        "fault": "Wrong Router Interface IP",
+        "confidence": 90,
+        "human_decision": "Approved",
+        "verification": "Successful"
+    },
+    {
+        "case_id": "CASE02",
+        "fault": "Interface Down",
+        "confidence": 95,
+        "human_decision": "Approved",
+        "verification": "Successful"
+    },
+    {
+        "case_id": "CASE03",
+        "fault": "Wrong Gateway",
+        "confidence": 95,
+        "human_decision": "Approved",
+        "verification": "Successful"
+    },
+    {
+        "case_id": "CASE04",
+        "fault": "Wrong IP Address",
+        "confidence": 90,
+        "human_decision": "Approved",
+        "verification": "Successful"
+    },
+    {
+        "case_id": "CASE05",
+        "fault": "Wrong Router Interface IP",
+        "confidence": 90,
+        "human_decision": "Approved",
+        "verification": "Successful"
+    },
+    {
+        "case_id": "CASE01",
+        "fault": "Wrong Subnet Mask",
+        "confidence": 95,
+        "human_decision": "Approved",
+        "verification": "Successful"
+    },
+    {
+        "case_id": "CASE05",
+        "fault": "Wrong Router Interface IP",
+        "confidence": 90,
+        "human_decision": "Approved",
+        "verification": "Successful"
+    },
+    {
+        "case_id": "CASE05",
+        "fault": "Wrong Router Interface IP",
+        "confidence": 90,
+        "human_decision": "Approved",
+        "verification": "Successful"
+    },
+    {
+        "case_id": "CASE05",
+        "fault": "Wrong Router Interface IP",
+        "confidence": 90,
+        "human_decision": "Approved",
+        "verification": "Successful"
+    }
+]
